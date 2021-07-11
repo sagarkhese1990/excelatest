@@ -1,0 +1,165 @@
+{
+    "data":[
+        {
+            "id":"0",
+            "firstName":"Smith",
+            "lastName":"Johnson",
+            "userName":"smithjhonson",
+            "city":"Washington",
+            "department":"IT Department"
+        },
+        {
+            "id":"1",
+            "firstName":"James",
+            "lastName":"Jacob",
+            "userName":"Jamesjacob",
+            "city":"Atlanta",
+            "department":"System Engineer"
+        },
+        {
+            "id":"2",
+            "firstName":"Anthony",
+            "lastName":"Daniel",
+            "userName":"DanielAnthony",
+            "city":"Alaska ",
+            "department":"System Engineer"
+        },
+        {
+            "id":"3",
+            "firstName":"Jane",
+            "lastName":"Doe",
+            "userName":"janedoe",
+            "city":"New York",
+            "department":"IT"
+        },
+        {
+            "id":"4",
+            "firstName":"Sagar",
+            "lastName":"Khese",
+            "userName":"sagarkhese",
+            "city":"Pune",
+            "department":"UI developer"
+        },
+        {
+            "id":"5",
+            "firstName":"Sadashiv",
+            "lastName":"Khese",
+            "userName":"shivkhese",
+            "city":"Mumbai",
+            "department":"Software Engineer"
+        },
+        {
+            "id":"6",
+            "firstName":"Satish",
+            "lastName":"Patil",
+            "userName":"satishpatil",
+            "city":"Jalgaon",
+            "department":"Php developer"
+        },
+        {
+            "id":"7",
+            "firstName":"Kartiki",
+            "lastName":"Gaikwad",
+            "userName":"kartikigaikwad",
+            "city":"Satar",
+            "department":"QA"
+        },
+        {
+            "id":"8",
+            "firstName":"Chaitalee",
+            "lastName":"Khese",
+            "userName":"chairtaleekhese",
+            "city":"Pune",
+            "department":"QA"
+        },
+        {
+            "id":"9",
+            "firstName":"Shital",
+            "lastName":"Dongare",
+            "userName":"shitaldongare",
+            "city":"Latur",
+            "department":"System Engineer"
+        },
+        {
+            "id":"10",
+            "firstName":"Sachin",
+            "lastName":"Palskar",
+            "userName":"sachinpalskar",
+            "city":"Aurangabad",
+            "department":"Mechanical"
+        },
+        {
+            "id":"11",
+            "firstName":"pranav",
+            "lastName":"Malusare",
+            "userName":"pranavmalusare",
+            "city":"Mumbai",
+            "department":"Mechanical"
+        },
+        {
+            "id":"12",
+            "firstName":"Sachin",
+            "lastName":"Surve",
+            "userName":"sachinsurve",
+            "city":"Ratnagiri",
+            "department":"Management"
+        },
+        {
+            "id":"13",
+            "firstName":"Ashish",
+            "lastName":"Bhalerao",
+            "userName":"ashishbhalerao",
+            "city":"Ahamadnagar",
+            "department":"Team Lead UI"
+        },
+        {
+            "id":"14",
+            "firstName":"Nitin",
+            "lastName":"Patil",
+            "userName":"nitinpatil",
+            "city":"Jalgaon",
+            "department":"UI Design"
+        },
+        {
+            "id":"15",
+            "firstName":"Pankaj",
+            "lastName":"Pede",
+            "userName":"pankajpede",
+            "city":"Hingoli",
+            "department":"UI Design"
+        },
+        {
+            "id":"16",
+            "firstName":"Vishal",
+            "lastName":"Lande",
+            "userName":"vishallande",
+            "city":"Junnar",
+            "department":"Java Department"
+        },
+        {
+            "id":"17",
+            "firstName":"Rohan",
+            "lastName":"Prabhune",
+            "userName":"rohanprabhune",
+            "city":"Nashik",
+            "department":"UI Developer"
+        },
+        {
+            "id":"18",
+            "firstName":"Sonali",
+            "lastName":"Korde",
+            "userName":"sonalikorde",
+            "city":"Vai",
+            "department":"Java Department"
+        },
+        {
+            "id":"19",
+            "firstName":"Sonali",
+            "lastName":"Sanap",
+            "userName":"sonalisanap",
+            "city":"Nashik",
+            "department":"Software Engineer"
+        }
+       
+    ]
+}

@@ -1,0 +1,26 @@
+
+ .p-field{
+     .required{
+         &:after{
+             content: '*';
+             color: $danger;
+             margin-left: 5px;
+         }
+     }
+ }
+  .p-inputtext {
+    &.ng-touched,
+    &:focus {
+      //border-color: $danger !important;
+      box-shadow: none !important;
+      outline: none !important;
+    }
+    &.invalid {
+      border-color: $danger !important;
+      box-shadow: none;
+    }
+    &.ng-valid {
+      border-color: $green !important;
+      box-shadow: none;
+    }
+  }

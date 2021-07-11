@@ -1,0 +1,31 @@
+.header-banner {
+  background: linear-gradient(rgba(0, 0, 0, 0.5) 100%, rgba(0, 0, 0, 0.5) 100%), url("../images/header-img.jpg");
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: $white;
+  margin-top: 80px;
+  @include background-center();
+}
+
+.btn-primary {
+  background-color: $brand-primary;
+  border-color: $brand-primary;
+  &:hover,
+  &:focus {
+    opacity: 0.8;
+    background-color: $brand-primary;
+    border-color: $brand-primary;
+    outline: none;
+    box-shadow: none;
+  }
+}
+
+app-header {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1;
+}
